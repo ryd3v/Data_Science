@@ -1,10 +1,14 @@
 # Data Science Course Repository
 
-Welcome to the repository for our comprehensive Data Science Course! This course is designed to equip you with the foundational skills necessary to embark on a career in data science, including statistical analysis, data cleaning and transformation, machine learning, and data visualization. The course will begin from a cybersecurity perspective, and then branch out into other areas later on. 
+Welcome to the repository for our comprehensive Data Science Course! This course is designed to equip you with the
+foundational skills necessary to embark on a career in data science, including statistical analysis, data cleaning and
+transformation, machine learning, and data visualization. The course will begin from a cybersecurity perspective, and
+then branch out into other areas later on.
 
 ## Course Description
 
-In this course, you will learn the end-to-end process of analyzing data through practical, hands-on projects. We will cover the following key areas:
+In this course, you will learn the end-to-end process of analyzing data through practical, hands-on projects. We will
+cover the following key areas:
 
 - **Introduction to Data Science**: Learn what data science is and why it's important in today's world.
 - **Statistics for Data Science**: Grasp the basics of statistics and how it applies to data analysis.
@@ -18,6 +22,7 @@ In this course, you will learn the end-to-end process of analyzing data through 
 
 Each module in this course is contained in its own directory:
 
+- `Cybersecurity`
 - `01_Introduction`
 - `02_Statistics`
 - `03_Programming`
@@ -42,7 +47,9 @@ Before starting this course, you should have a basic understanding of:
 
 ## Installation and Setup
 
-To follow along with the course exercises and projects, you will need to set up your environment. Instructions for installation of the necessary software (like Python, R, Jupyter notebooks) and libraries (like pandas, NumPy, scikit-learn) can be found in the `installation_guide.md`.
+To follow along with the course exercises and projects, you will need to set up your environment. Instructions for
+installation of the necessary software (like Python, R, Jupyter notebooks) and libraries (like pandas, NumPy,
+scikit-learn) can be found in the [installation_guide](installation_guide.md).
 
 ## How to Use This Repository
 
@@ -53,15 +60,20 @@ To follow along with the course exercises and projects, you will need to set up 
 
 ## Contributions
 
-We encourage students to contribute to this repository by providing feedback, suggesting improvements, or adding new resources. If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
+We encourage students to contribute to this repository by providing feedback, suggesting improvements, or adding new
+resources. If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly
+welcome.
 
 ## Licensing
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/your-github-username/your-repository-name/blob/main/LICENSE)
 
 This course and all associated materials are released under the [MIT License](LICENSE.md).
 
 ## Contact
 
-If you have any questions or feedback regarding the course, please file an issue in this repository or reach out to the instructor directly at [hello@ryd3v.com](mailto:hello@ryd3v.com).
+If you have any questions or feedback regarding the course, please file an issue in this repository or reach out to the
+instructor directly at [hello@ryd3v.com](mailto:hello@ryd3v.com).
 
 Thank you for joining our Data Science journey. Let's dive into the world of data together!
 
