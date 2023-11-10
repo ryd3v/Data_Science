@@ -27,8 +27,8 @@ Anaconda is a distribution of Python that includes many of the libraries and too
 1. Go to the Anaconda download page at [anaconda.com](https://www.anaconda.com/products/distribution#download-section).
 2. Select your operating system and download the Anaconda Installer for Python 3.x.
 3. Run the Anaconda Installer and follow the on-screen instructions.
-    - For Windows, it's recommended to check the "Add Anaconda to my PATH environment variable" option.
-    - For macOS and Linux, you may need to run the installer through the terminal.
+   - For Windows, it's recommended to check the "Add Anaconda to my PATH environment variable" option.
+   - For macOS and Linux, you may need to run the installer through the terminal.
 
 ## Setting Up a Conda Environment
 
@@ -44,8 +44,8 @@ conda create --name datascience python=3.8
 You can replace `datascience` with any name you like and `python=3.8` with the specific version you need.
 
 3. Activate the environment by typing:
-    - On Windows: `activate datascience`
-    - On macOS and Linux: `source activate datascience`
+   - On Windows: `activate datascience`
+   - On macOS and Linux: `source activate datascience`
 
 ## Installing Jupyter Notebooks
 
